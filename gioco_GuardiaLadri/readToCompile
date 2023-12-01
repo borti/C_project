@@ -1,0 +1,1 @@
+clang -o game guardia_ladro_game.c -lcurses
